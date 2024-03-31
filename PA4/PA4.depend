@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1711765180 source:/home/ldap/eb76843/CS 181/PA/PA4/Employee.cpp
+	<string>
+	<cstdlib>
+	"Employee.h"
+
+1711765153 /home/ldap/eb76843/CS 181/PA/PA4/Employee.h
+
+1711768705 source:/home/ldap/eb76843/CS 181/PA/PA4/Manager.cpp
+	<string>
+	<cstdlib>
+	"Employee.h"
+	"Manager.h"
+
+1711765180 /home/ldap/eb76843/CS 181/PA/PA4/Employee.cpp
+	<string>
+	<cstdlib>
+	"Employee.h"
+
+1711768431 /home/ldap/eb76843/CS 181/PA/PA4/Manager.h
+	"Employee.h"
+
